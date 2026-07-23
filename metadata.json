@@ -1,0 +1,6 @@
+{
+  "name": "CryptoPro Terminal",
+  "description": "Professional cryptocurrency trading terminal featuring real-time charts, technical analysis ratings, order execution, sentiment tracking, and live market feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
